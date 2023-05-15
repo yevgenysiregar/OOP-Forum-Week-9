@@ -13,7 +13,9 @@
 
     (B) The accessor methods are necessary as it is to keep the SalesPerson class private and can't be changed outside of the class.
 
-    (C) (i) ![UML-Diagram-OOP-Forum](https://github.com/yevgenysiregar/OOP-Forum-Week-9/assets/48908985/48a6e838-816a-447e-a8e8-2c8d9d388622)
+    (C) (i) 
+    
+    ![UML-Diagram-OOP-Forum](https://github.com/yevgenysiregar/OOP-Forum-Week-9/assets/48908985/48a6e838-816a-447e-a8e8-2c8d9d388622)
 
     (ii) If there's an input error, no way to fix it.
 
